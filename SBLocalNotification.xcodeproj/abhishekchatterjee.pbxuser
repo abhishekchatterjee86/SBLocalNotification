@@ -1,0 +1,855 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SBLocalNotificationAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 688}}";
+			sepNavSelRange = "{247, 0}";
+			sepNavVisRange = "{0, 561}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SBLocalNotificationAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1469}}";
+			sepNavSelRange = "{494, 29}";
+			sepNavVisRange = "{178, 2241}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SBLocalNotification */ = {
+		activeExec = 0;
+		executables = (
+			9CBBB036148F2AD7004A342E /* SBLocalNotification */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9CBBB036148F2AD7004A342E /* SBLocalNotification */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SBLocalNotification */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SBLocalNotification */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 9CBBB040148F2AE4004A342E /* Code sense */;
+		executables = (
+			9CBBB036148F2AD7004A342E /* SBLocalNotification */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1473,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 344934190;
+			PBXWorkspaceStateSaveDate = 344934190;
+		};
+		perUserProjectItems = {
+			9C61075C148F5675001B01A0 /* PBXTextBookmark */ = 9C61075C148F5675001B01A0 /* PBXTextBookmark */;
+			9C61075D148F5675001B01A0 /* PlistBookmark */ = 9C61075D148F5675001B01A0 /* PlistBookmark */;
+			9C61075E148F5675001B01A0 /* PBXTextBookmark */ = 9C61075E148F5675001B01A0 /* PBXTextBookmark */;
+			9C61075F148F5675001B01A0 /* PBXBookmark */ = 9C61075F148F5675001B01A0 /* PBXBookmark */;
+			9C610760148F5675001B01A0 /* PBXTextBookmark */ = 9C610760148F5675001B01A0 /* PBXTextBookmark */;
+			9C610761148F5675001B01A0 /* PBXTextBookmark */ = 9C610761148F5675001B01A0 /* PBXTextBookmark */;
+			9C610763148F5675001B01A0 /* PBXTextBookmark */ = 9C610763148F5675001B01A0 /* PBXTextBookmark */;
+			9C610764148F5675001B01A0 /* PBXTextBookmark */ = 9C610764148F5675001B01A0 /* PBXTextBookmark */;
+			9C610772148F5892001B01A0 /* PBXTextBookmark */ = 9C610772148F5892001B01A0 /* PBXTextBookmark */;
+			9C610774148F5892001B01A0 /* PBXTextBookmark */ = 9C610774148F5892001B01A0 /* PBXTextBookmark */;
+			9C610775148F5892001B01A0 /* PBXTextBookmark */ = 9C610775148F5892001B01A0 /* PBXTextBookmark */;
+			9C610778148F5FD3001B01A0 /* PBXTextBookmark */ = 9C610778148F5FD3001B01A0 /* PBXTextBookmark */;
+			9C610779148F5FD3001B01A0 /* PBXTextBookmark */ = 9C610779148F5FD3001B01A0 /* PBXTextBookmark */;
+			9C61077A148F5FD3001B01A0 /* PBXTextBookmark */ = 9C61077A148F5FD3001B01A0 /* PBXTextBookmark */;
+			9C61077D148F607B001B01A0 /* PBXTextBookmark */ = 9C61077D148F607B001B01A0 /* PBXTextBookmark */;
+			9CF7D79F148F381C005EF65A = 9CF7D79F148F381C005EF65A /* PBXTextBookmark */;
+			9CF7D7A0148F381C005EF65A = 9CF7D7A0148F381C005EF65A /* PBXTextBookmark */;
+			9CF7D7AD148F3E07005EF65A = 9CF7D7AD148F3E07005EF65A /* PBXTextBookmark */;
+			9CF7D7AE148F3E07005EF65A = 9CF7D7AE148F3E07005EF65A /* PBXTextBookmark */;
+			9CF7D7AF148F3E07005EF65A = 9CF7D7AF148F3E07005EF65A /* PBXTextBookmark */;
+			9CF7D7B3148F3E08005EF65A = 9CF7D7B3148F3E08005EF65A /* PBXTextBookmark */;
+			9CF7D7B5148F3E08005EF65A = 9CF7D7B5148F3E08005EF65A /* PBXTextBookmark */;
+			9CF7D7B6148F3E08005EF65A = 9CF7D7B6148F3E08005EF65A /* PBXTextBookmark */;
+			9CF7D7B7148F3E08005EF65A = 9CF7D7B7148F3E08005EF65A /* PBXTextBookmark */;
+			9CF7D7B9148F3E08005EF65A = 9CF7D7B9148F3E08005EF65A /* PBXTextBookmark */;
+			9CF7D7BA148F3E08005EF65A = 9CF7D7BA148F3E08005EF65A /* PBXTextBookmark */;
+			9CF7D7BB148F3E08005EF65A = 9CF7D7BB148F3E08005EF65A /* PBXTextBookmark */;
+			9CF7D7BE148F3EB7005EF65A = 9CF7D7BE148F3EB7005EF65A /* PBXTextBookmark */;
+			9CF7D7BF148F3EB7005EF65A = 9CF7D7BF148F3EB7005EF65A /* PBXTextBookmark */;
+			9CF7D7C0148F3EB7005EF65A = 9CF7D7C0148F3EB7005EF65A /* PBXTextBookmark */;
+			9CF7D7C1148F4003005EF65A = 9CF7D7C1148F4003005EF65A /* PBXTextBookmark */;
+			9CF7D7C2148F4003005EF65A = 9CF7D7C2148F4003005EF65A /* PBXTextBookmark */;
+			9CF7D7C3148F4003005EF65A = 9CF7D7C3148F4003005EF65A /* PBXTextBookmark */;
+			9CF7D7C4148F4003005EF65A = 9CF7D7C4148F4003005EF65A /* PBXTextBookmark */;
+			9CF7D7C5148F4003005EF65A = 9CF7D7C5148F4003005EF65A /* PBXTextBookmark */;
+			9CF7D7CB148F405B005EF65A = 9CF7D7CB148F405B005EF65A /* PBXTextBookmark */;
+			9CF7D7CC148F405B005EF65A = 9CF7D7CC148F405B005EF65A /* PBXTextBookmark */;
+			9CF7D7CD148F405B005EF65A = 9CF7D7CD148F405B005EF65A /* PBXTextBookmark */;
+			9CF7D7D4148F409F005EF65A = 9CF7D7D4148F409F005EF65A /* PBXTextBookmark */;
+			9CF7D7D5148F409F005EF65A = 9CF7D7D5148F409F005EF65A /* PBXTextBookmark */;
+			9CF7D7D6148F409F005EF65A = 9CF7D7D6148F409F005EF65A /* PBXTextBookmark */;
+			9CF7D7D7148F409F005EF65A = 9CF7D7D7148F409F005EF65A /* PBXTextBookmark */;
+			9CF7D7D8148F409F005EF65A = 9CF7D7D8148F409F005EF65A /* PBXTextBookmark */;
+			9CF7D7EB148F423A005EF65A = 9CF7D7EB148F423A005EF65A /* PBXTextBookmark */;
+			9CF7D7EC148F423A005EF65A = 9CF7D7EC148F423A005EF65A /* PBXTextBookmark */;
+			9CF7D7ED148F423A005EF65A = 9CF7D7ED148F423A005EF65A /* PBXTextBookmark */;
+			9CF7D7F2148F4274005EF65A = 9CF7D7F2148F4274005EF65A /* PBXTextBookmark */;
+			9CF7D7F3148F4274005EF65A = 9CF7D7F3148F4274005EF65A /* PBXTextBookmark */;
+			9CF7D7F4148F4274005EF65A = 9CF7D7F4148F4274005EF65A /* PBXTextBookmark */;
+			9CF7D7F5148F4274005EF65A = 9CF7D7F5148F4274005EF65A /* PBXTextBookmark */;
+			9CF7D7F6148F42B4005EF65A = 9CF7D7F6148F42B4005EF65A /* PBXTextBookmark */;
+			9CF7D7F7148F42B4005EF65A = 9CF7D7F7148F42B4005EF65A /* PBXTextBookmark */;
+			9CF7D7F9148F42B4005EF65A = 9CF7D7F9148F42B4005EF65A /* PBXTextBookmark */;
+			9CF7D7FA148F42B4005EF65A = 9CF7D7FA148F42B4005EF65A /* PBXTextBookmark */;
+			9CF7D7FB148F42D9005EF65A = 9CF7D7FB148F42D9005EF65A /* PBXTextBookmark */;
+			9CF7D7FC148F4311005EF65A = 9CF7D7FC148F4311005EF65A /* PBXTextBookmark */;
+			9CF7D803148F4343005EF65A = 9CF7D803148F4343005EF65A /* PBXTextBookmark */;
+			9CF7D806148F4417005EF65A = 9CF7D806148F4417005EF65A /* PlistBookmark */;
+			9CF7D807148F4417005EF65A = 9CF7D807148F4417005EF65A /* PBXTextBookmark */;
+			9CF7D808148F4417005EF65A = 9CF7D808148F4417005EF65A /* PBXTextBookmark */;
+			9CF7D809148F4417005EF65A = 9CF7D809148F4417005EF65A /* PBXTextBookmark */;
+			9CF7D80A148F4417005EF65A = 9CF7D80A148F4417005EF65A /* PBXTextBookmark */;
+			9CF7D80C148F441C005EF65A = 9CF7D80C148F441C005EF65A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9CBBB03F148F2AE4004A342E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* SBLocalNotification_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 799}}";
+			sepNavSelRange = "{242, 0}";
+			sepNavVisRange = "{0, 250}";
+		};
+	};
+	9C61075C148F5675001B01A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* SBLocalNotification_Prefix.pch */;
+		name = "SBLocalNotification_Prefix.pch: 8";
+		rLen = 0;
+		rLoc = 242;
+		rType = 0;
+		vrLen = 250;
+		vrLoc = 0;
+	};
+	9C61075D148F5675001B01A0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SBLocalNotification-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/abhishekchatterjee/Documents/Local Notification/SBLocalNotification/SBLocalNotification-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	9C61075E148F5675001B01A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D799148F3816005EF65A /* SBLocalNotificationViewController.h */;
+		name = "SBLocalNotificationViewController.h: 19";
+		rLen = 0;
+		rLoc = 375;
+		rType = 0;
+		vrLen = 745;
+		vrLoc = 0;
+	};
+	9C61075F148F5675001B01A0 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9C61073D148F4741001B01A0 /* apple-iphone-wallpaper.jpg */;
+	};
+	9C610760148F5675001B01A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SBLocalNotificationAppDelegate.m */;
+		name = "SBLocalNotificationAppDelegate.m: 21";
+		rLen = 29;
+		rLoc = 494;
+		rType = 0;
+		vrLen = 2437;
+		vrLoc = 178;
+	};
+	9C610761148F5675001B01A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9C610762148F5675001B01A0 /* NSTimeZone.h */;
+		name = "NSTimeZone.h: 28";
+		rLen = 33;
+		rLoc = 758;
+		rType = 0;
+		vrLen = 1902;
+		vrLoc = 0;
+	};
+	9C610762148F5675001B01A0 /* NSTimeZone.h */ = {
+		isa = PBXFileReference;
+		name = NSTimeZone.h;
+		path = "/Developer 4.2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSTimeZone.h";
+		sourceTree = "<absolute>";
+	};
+	9C610763148F5675001B01A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 72";
+		rLen = 15;
+		rLoc = 2800;
+		rType = 0;
+		vrLen = 1774;
+		vrLoc = 933;
+	};
+	9C610764148F5675001B01A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 72";
+		rLen = 0;
+		rLoc = 2771;
+		rType = 0;
+		vrLen = 1774;
+		vrLoc = 933;
+	};
+	9C610772148F5892001B01A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9C610773148F5892001B01A0 /* UIDatePicker.h */;
+		name = "UIDatePicker.h: 37";
+		rLen = 172;
+		rLoc = 1856;
+		rType = 0;
+		vrLen = 2356;
+		vrLoc = 0;
+	};
+	9C610773148F5892001B01A0 /* UIDatePicker.h */ = {
+		isa = PBXFileReference;
+		name = UIDatePicker.h;
+		path = "/Developer 4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDatePicker.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 783}}";
+			sepNavSelRange = "{1856, 172}";
+			sepNavVisRange = "{0, 2356}";
+		};
+	};
+	9C610774148F5892001B01A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 71";
+		rLen = 17;
+		rLoc = 2694;
+		rType = 0;
+		vrLen = 1774;
+		vrLoc = 933;
+	};
+	9C610775148F5892001B01A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 65";
+		rLen = 0;
+		rLoc = 2271;
+		rType = 0;
+		vrLen = 1776;
+		vrLoc = 933;
+	};
+	9C610778148F5FD3001B01A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SBLocalNotificationAppDelegate.m */;
+		name = "SBLocalNotificationAppDelegate.m: 21";
+		rLen = 29;
+		rLoc = 494;
+		rType = 0;
+		vrLen = 2241;
+		vrLoc = 178;
+	};
+	9C610779148F5FD3001B01A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 65";
+		rLen = 0;
+		rLoc = 2271;
+		rType = 0;
+		vrLen = 1326;
+		vrLoc = 0;
+	};
+	9C61077A148F5FD3001B01A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 59";
+		rLen = 0;
+		rLoc = 1319;
+		rType = 0;
+		vrLen = 1898;
+		vrLoc = 932;
+	};
+	9C61077D148F607B001B01A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 90";
+		rLen = 0;
+		rLoc = 2271;
+		rType = 0;
+		vrLen = 2048;
+		vrLoc = 1352;
+	};
+	9CBBB036148F2AD7004A342E /* SBLocalNotification */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SBLocalNotification;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	9CBBB03F148F2AE4004A342E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9CBBB040148F2AE4004A342E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9CF7D799148F3816005EF65A /* SBLocalNotificationViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 799}}";
+			sepNavSelRange = "{375, 0}";
+			sepNavVisRange = "{0, 745}";
+		};
+	};
+	9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 2314}}";
+			sepNavSelRange = "{1440, 0}";
+			sepNavVisRange = "{1114, 1978}";
+		};
+	};
+	9CF7D79F148F381C005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D799148F3816005EF65A /* SBLocalNotificationViewController.h */;
+		name = "SBLocalNotificationViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 282;
+		vrLoc = 0;
+	};
+	9CF7D7A0148F381C005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D799148F3816005EF65A /* SBLocalNotificationViewController.h */;
+		name = "SBLocalNotificationViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 282;
+		vrLoc = 0;
+	};
+	9CF7D7AD148F3E07005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D799148F3816005EF65A /* SBLocalNotificationViewController.h */;
+		name = "SBLocalNotificationViewController.h: 24";
+		rLen = 0;
+		rLoc = 699;
+		rType = 0;
+		vrLen = 430;
+		vrLoc = 274;
+	};
+	9CF7D7AE148F3E07005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		rLen = 0;
+		rLoc = 2177;
+		rType = 0;
+	};
+	9CF7D7AF148F3E07005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 61";
+		rLen = 0;
+		rLoc = 2177;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 1130;
+	};
+	9CF7D7B3148F3E08005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D7B4148F3E08005EF65A /* UIApplication.h */;
+		name = "UIApplication.h: 238";
+		rLen = 65;
+		rLoc = 11386;
+		rType = 0;
+		vrLen = 3773;
+		vrLoc = 10368;
+	};
+	9CF7D7B4148F3E08005EF65A /* UIApplication.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIApplication.h;
+		path = "/Developer 4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h";
+		sourceTree = "<absolute>";
+	};
+	9CF7D7B5148F3E08005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SBLocalNotificationAppDelegate.h */;
+		name = "SBLocalNotificationAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 247;
+		rType = 0;
+		vrLen = 561;
+		vrLoc = 0;
+	};
+	9CF7D7B6148F3E08005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SBLocalNotificationAppDelegate.m */;
+		name = "SBLocalNotificationAppDelegate.m: 44";
+		rLen = 0;
+		rLoc = 1174;
+		rType = 0;
+		vrLen = 2288;
+		vrLoc = 64;
+	};
+	9CF7D7B7148F3E08005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D7B8148F3E08005EF65A /* UITextField.h */;
+		name = "UITextField.h: 188";
+		rLen = 127;
+		rLoc = 8462;
+		rType = 0;
+		vrLen = 3308;
+		vrLoc = 5500;
+	};
+	9CF7D7B8148F3E08005EF65A /* UITextField.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITextField.h;
+		path = "/Developer 4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextField.h";
+		sourceTree = "<absolute>";
+	};
+	9CF7D7B9148F3E08005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 61";
+		rLen = 0;
+		rLoc = 2177;
+		rType = 0;
+		vrLen = 1519;
+		vrLoc = 747;
+	};
+	9CF7D7BA148F3E08005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D799148F3816005EF65A /* SBLocalNotificationViewController.h */;
+		rLen = 0;
+		rLoc = 699;
+		rType = 0;
+	};
+	9CF7D7BB148F3E08005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D799148F3816005EF65A /* SBLocalNotificationViewController.h */;
+		name = "SBLocalNotificationViewController.h: 24";
+		rLen = 0;
+		rLoc = 699;
+		rType = 0;
+		vrLen = 704;
+		vrLoc = 0;
+	};
+	9CF7D7BE148F3EB7005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 61";
+		rLen = 0;
+		rLoc = 2177;
+		rType = 0;
+		vrLen = 1519;
+		vrLoc = 747;
+	};
+	9CF7D7BF148F3EB7005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D799148F3816005EF65A /* SBLocalNotificationViewController.h */;
+		name = "SBLocalNotificationViewController.h: 25";
+		rLen = 0;
+		rLoc = 738;
+		rType = 0;
+		vrLen = 704;
+		vrLoc = 0;
+	};
+	9CF7D7C0148F3EB7005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D799148F3816005EF65A /* SBLocalNotificationViewController.h */;
+		name = "SBLocalNotificationViewController.h: 16";
+		rLen = 0;
+		rLoc = 351;
+		rType = 0;
+		vrLen = 679;
+		vrLoc = 0;
+	};
+	9CF7D7C1148F4003005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D799148F3816005EF65A /* SBLocalNotificationViewController.h */;
+		name = "SBLocalNotificationViewController.h: 23";
+		rLen = 44;
+		rLoc = 625;
+		rType = 0;
+		vrLen = 697;
+		vrLoc = 0;
+	};
+	9CF7D7C2148F4003005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D7B4148F3E08005EF65A /* UIApplication.h */;
+		name = "UIApplication.h: 258";
+		rLen = 162;
+		rLoc = 13423;
+		rType = 0;
+		vrLen = 6405;
+		vrLoc = 11451;
+	};
+	9CF7D7C3148F4003005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SBLocalNotificationAppDelegate.m */;
+		name = "SBLocalNotificationAppDelegate.m: 87";
+		rLen = 0;
+		rLoc = 3177;
+		rType = 0;
+		vrLen = 2721;
+		vrLoc = 1062;
+	};
+	9CF7D7C4148F4003005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 61";
+		rLen = 0;
+		rLoc = 2218;
+		rType = 0;
+		vrLen = 1537;
+		vrLoc = 909;
+	};
+	9CF7D7C5148F4003005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 61";
+		rLen = 0;
+		rLoc = 2218;
+		rType = 0;
+		vrLen = 1537;
+		vrLoc = 909;
+	};
+	9CF7D7CB148F405B005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'reminderText' undeclared (first use in this function)";
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		rLen = 1;
+		rLoc = 89;
+		rType = 1;
+	};
+	9CF7D7CC148F405B005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 63";
+		rLen = 0;
+		rLoc = 2223;
+		rType = 0;
+		vrLen = 426;
+		vrLoc = 1180;
+	};
+	9CF7D7CD148F405B005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 61";
+		rLen = 0;
+		rLoc = 2218;
+		rType = 0;
+		vrLen = 360;
+		vrLoc = 1320;
+	};
+	9CF7D7D4148F409F005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* SBLocalNotification_Prefix.pch */;
+		name = "SBLocalNotification_Prefix.pch: 8";
+		rLen = 0;
+		rLoc = 242;
+		rType = 0;
+		vrLen = 250;
+		vrLoc = 0;
+	};
+	9CF7D7D5148F409F005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SBLocalNotificationAppDelegate.m */;
+		name = "SBLocalNotificationAppDelegate.m: 16";
+		rLen = 74;
+		rLoc = 319;
+		rType = 0;
+		vrLen = 2185;
+		vrLoc = 0;
+	};
+	9CF7D7D6148F409F005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D799148F3816005EF65A /* SBLocalNotificationViewController.h */;
+		name = "SBLocalNotificationViewController.h: 19";
+		rLen = 0;
+		rLoc = 375;
+		rType = 0;
+		vrLen = 745;
+		vrLoc = 0;
+	};
+	9CF7D7D7148F409F005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 80";
+		rLen = 28;
+		rLoc = 3858;
+		rType = 0;
+		vrLen = 1580;
+		vrLoc = 878;
+	};
+	9CF7D7D8148F409F005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 80";
+		rLen = 28;
+		rLoc = 3858;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 930;
+	};
+	9CF7D7EB148F423A005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SBLocalNotificationAppDelegate.m */;
+		name = "SBLocalNotificationAppDelegate.m: 38";
+		rLen = 0;
+		rLoc = 1066;
+		rType = 0;
+		vrLen = 2285;
+		vrLoc = 64;
+	};
+	9CF7D7EC148F423A005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 83";
+		rLen = 25;
+		rLoc = 4331;
+		rType = 0;
+		vrLen = 1529;
+		vrLoc = 932;
+	};
+	9CF7D7ED148F423A005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 83";
+		rLen = 25;
+		rLoc = 4331;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 932;
+	};
+	9CF7D7F2148F4274005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 83";
+		rLen = 0;
+		rLoc = 4346;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 932;
+	};
+	9CF7D7F3148F4274005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SBLocalNotificationAppDelegate.m */;
+		name = "SBLocalNotificationAppDelegate.m: 38";
+		rLen = 0;
+		rLoc = 1066;
+		rType = 0;
+		vrLen = 2128;
+		vrLoc = 64;
+	};
+	9CF7D7F4148F4274005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D799148F3816005EF65A /* SBLocalNotificationViewController.h */;
+		name = "SBLocalNotificationViewController.h: 19";
+		rLen = 0;
+		rLoc = 375;
+		rType = 0;
+		vrLen = 745;
+		vrLoc = 0;
+	};
+	9CF7D7F5148F4274005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D799148F3816005EF65A /* SBLocalNotificationViewController.h */;
+		name = "SBLocalNotificationViewController.h: 19";
+		rLen = 0;
+		rLoc = 375;
+		rType = 0;
+		vrLen = 745;
+		vrLoc = 0;
+	};
+	9CF7D7F6148F42B4005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D799148F3816005EF65A /* SBLocalNotificationViewController.h */;
+		name = "SBLocalNotificationViewController.h: 19";
+		rLen = 0;
+		rLoc = 375;
+		rType = 0;
+		vrLen = 745;
+		vrLoc = 0;
+	};
+	9CF7D7F7148F42B4005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D7F8148F42B4005EF65A /* NSDate.h */;
+		name = "NSDate.h: 46";
+		rLen = 61;
+		rLoc = 1121;
+		rType = 0;
+		vrLen = 1766;
+		vrLoc = 0;
+	};
+	9CF7D7F8148F42B4005EF65A /* NSDate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSDate.h;
+		path = "/Developer 4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDate.h";
+		sourceTree = "<absolute>";
+	};
+	9CF7D7F9148F42B4005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 71";
+		rLen = 72;
+		rLoc = 2641;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 932;
+	};
+	9CF7D7FA148F42B4005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 71";
+		rLen = 72;
+		rLoc = 2641;
+		rType = 0;
+		vrLen = 1598;
+		vrLoc = 909;
+	};
+	9CF7D7FB148F42D9005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 77";
+		rLen = 0;
+		rLoc = 3516;
+		rType = 0;
+		vrLen = 1661;
+		vrLoc = 909;
+	};
+	9CF7D7FC148F4311005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 86";
+		rLen = 0;
+		rLoc = 4398;
+		rType = 0;
+		vrLen = 1664;
+		vrLoc = 909;
+	};
+	9CF7D803148F4343005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 71";
+		rLen = 0;
+		rLoc = 2713;
+		rType = 0;
+		vrLen = 1684;
+		vrLoc = 932;
+	};
+	9CF7D806148F4417005EF65A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SBLocalNotification-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/abhishekchatterjee/Documents/Local Notification/SBLocalNotification/SBLocalNotification-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	9CF7D807148F4417005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SBLocalNotificationAppDelegate.m */;
+		name = "SBLocalNotificationAppDelegate.m: 38";
+		rLen = 0;
+		rLoc = 1066;
+		rType = 0;
+		vrLen = 2128;
+		vrLoc = 64;
+	};
+	9CF7D808148F4417005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D7B4148F3E08005EF65A /* UIApplication.h */;
+		name = "UIApplication.h: 186";
+		rLen = 94;
+		rLoc = 8560;
+		rType = 0;
+		vrLen = 3605;
+		vrLoc = 6764;
+	};
+	9CF7D809148F4417005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 74";
+		rLen = 0;
+		rLoc = 2972;
+		rType = 0;
+		vrLen = 1683;
+		vrLoc = 933;
+	};
+	9CF7D80A148F4417005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 74";
+		rLen = 0;
+		rLoc = 2972;
+		rType = 0;
+		vrLen = 1683;
+		vrLoc = 933;
+	};
+	9CF7D80C148F441C005EF65A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9CF7D79A148F3816005EF65A /* SBLocalNotificationViewController.m */;
+		name = "SBLocalNotificationViewController.m: 74";
+		rLen = 0;
+		rLoc = 2972;
+		rType = 0;
+		vrLen = 1683;
+		vrLoc = 933;
+	};
+}

@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'SBLocalNotification' target in the 'SBLocalNotification' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#import "SBLocalNotificationAppDelegate.h"
+#endif
